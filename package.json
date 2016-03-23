@@ -1,0 +1,26 @@
+{
+  "name": "mailchimp-js",
+  "version": "0.1.0",
+  "description": "Node.js client of MailChimp API 3.0",
+  "main": "lib/mailchimp/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/seedalpha/mailchimp-js.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "js",
+    "mailchimp",
+    "api"
+  ],
+  "author": "Marvin Lam <lam@seedalpha.net>",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/seedalpha/mailchimp-js/issues"
+  },
+  "homepage": "https://github.com/seedalpha/mailchimp-js#readme"
+}
